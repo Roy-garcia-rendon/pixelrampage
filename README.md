@@ -6,3 +6,9 @@ El juego no pretende ser lo más profesional ni nada por el estilo, pero eso no 
 El paquete que utilice para algunos elementos es el siguiente: https://didigameboy.itch.io/jambo-jungle-free-sprites-asset-pack
 ![image](https://github.com/user-attachments/assets/d5baded2-2174-47b3-8471-8a88956a05bb)
 
+![image](https://github.com/user-attachments/assets/43794a88-46dc-4979-aeed-141069fa9d4d)
+
+![image](https://github.com/user-attachments/assets/e625b6a3-e90d-4770-a116-640e936670e1)
+
+
+
