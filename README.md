@@ -10,5 +10,8 @@ El paquete que utilice para algunos elementos es el siguiente: https://didigameb
 
 ![image](https://github.com/user-attachments/assets/e625b6a3-e90d-4770-a116-640e936670e1)
 
+....
+
+
 
 
